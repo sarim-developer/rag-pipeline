@@ -230,6 +230,7 @@ rag.ask("What is democracy?")
 - At least 4GB RAM for embeddings and LLM
 - Disk space for PDFs and vector database
 
+## Planning to design the frontend 
 ## License
 
 MIT License - Feel free to use and modify!
